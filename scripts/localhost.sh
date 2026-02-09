@@ -26,7 +26,7 @@ case $1 in
     banner "git fetch --all -p; git pull; git status;"
     git fetch --all -p; git pull; git status;
     git merge origin/main;
-    git push;
+    # git push;
     ;;
   start)
     banner "docker compose up"
