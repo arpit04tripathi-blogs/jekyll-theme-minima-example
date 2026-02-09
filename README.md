@@ -1,10 +1,10 @@
-# jekyll-starter-template
+# jekyll-theme-minima-example
 
 Template to start a jekyll repo using docker.
 
 ***table of contents***
 
-- [jekyll-starter-template](#jekyll-starter-template)
+- [jekyll-theme-minima-example](#jekyll-theme-minima-example)
   - [Getting started](#getting-started)
   - [Running on local](#running-on-local)
   - [Troubleshooting](#troubleshooting)

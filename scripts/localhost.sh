@@ -5,7 +5,7 @@ echo [arguments] $@
 echo =========================================================
 
 PORT=9999
-URL_PATH="jekyll-starter-template"
+URL_PATH="jekyll-theme-minima-example"
 
 separator_start() {
   echo '================================================================================= v';
